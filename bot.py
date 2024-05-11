@@ -67,7 +67,7 @@ async def ban(ctx,member:discord.Member, *,args):
         ctx.channel.send("sen anca ananı banla oç")
         return
 
-    await member.ban(reason="KURALLAR UYMADI VEYA ZEVKİNDEN//aslında banane amq")
+    await member.ban(reason="KURALLAR UYMADI VEYA ZEVKİNDEN")
 
     await member.send(f"**{ctx.guild.name}** Adlı Sunucudan Banlandın Sebep: **{args}**")
 
