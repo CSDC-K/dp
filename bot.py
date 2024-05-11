@@ -212,4 +212,4 @@ async def close(ctx):
     await ctx.channel.send(embed=embed,view=view)
 
 
-client.run("MTA1OTU1OTU2MzM5NDgxNDE2Mg.GV0pIU.yzSPJC2ZrnXDo9dKD6tJoivz-Pd7sQnraMKyec")
+client.run("TOKEN")
