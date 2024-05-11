@@ -9,7 +9,7 @@ client = commands.Bot(command_prefix="d!", intents=intents)
 
 @client.event
 async def on_ready():
-    print("HANİ BANA AMMM")
+    print("Work!")
 
 
 client.remove_command("help")
