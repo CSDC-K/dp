@@ -1,3 +1,3 @@
 # This bot is for moderation.
 
-##      Made By KC
+##      Made By CSDC-K
